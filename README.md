@@ -26,6 +26,20 @@ Pythia ships with a growing roster of voicebanks, each with a distinct sound and
 
 **Ray** — Lilian's sister, and the most quietly devastating voice in the roster. Ray has been through a great deal — bad friends, manipulation, depression — and her voicebank carries all of it. She is being released as someone who has moved on. Not healed in a neat or simple way, but through it, and still standing. Currently unreleased.
 
+The Pythia universe is ongoing. As new voicebanks are developed and released, the world and its characters will continue to expand.
+
+---
+
+## File Formats
+
+Pythia uses its own file formats across the ecosystem.
+
+**.pys** — Pythia Song. The project file format. Saves your composition, notes, lyrics, tempo, and voicebank references so you can pick up where you left off.
+
+**.pvb** — Pythia Voice Bank. The compiled voicebank format used by the engine at runtime.
+
+**.pyai** — The source voicebank format. Used to author and edit voicebanks before converting them to .pvb for use in the program.
+
 ---
 
 ## Installation
